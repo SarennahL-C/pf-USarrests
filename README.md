@@ -4,7 +4,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 The project emphasises **careful preprocessing, interpretability, and disciplined analytical reasoning**, reflecting a professional approach to unsupervised machine learning.
 
-![The left shows a black and white images of a man holding his hands together. He is wearing handcuffs and has a sorrowful posture. On the right is a map showing the American States. Some of the states are coloured red, some blue and others white.](handcuffs-and-state-clsuters.png)
+![The left shows a black and white images of a man holding his hands together. He is wearing handcuffs and has a sorrowful posture. On the right is a map showing the American States. Some of the states are coloured red, some blue and others white.](handcuffs-and-state-clusters.png)
 
 Criminal in handcuffs image from www.rawpixel.com. Map created with www.mapchart.net. 
 
