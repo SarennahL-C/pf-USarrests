@@ -10,7 +10,7 @@ Criminal in handcuffs image from www.rawpixel.com. Map created with www.mapchart
 
 ---
 
-### What’s in this repository
+## What’s in this repository
 
 - **Jupyter Notebook:** full PCA and clustering analysis (`unsupervised_task.ipynb`)  
 - **Images:** biplots, clustering visualisations, reviewer feedback  
@@ -19,13 +19,13 @@ Criminal in handcuffs image from www.rawpixel.com. Map created with www.mapchart
 
 ---
 
-### Project Context
+## Project Context
 
 This capstone task focused on exploring relationships between different categories of violent crime across U.S. states in 1973. The dataset contains arrest rates per 100,000 residents for murder, assault, and rape, alongside the percentage of the population living in urban areas. The objective was to reduce dimensionality, identify dominant sources of variation, and examine whether meaningful groupings of states could be identified using unsupervised learning techniques.
 
 ---
 
-### Approach Overview
+## Approach Overview
 
 - Data exploration and preprocessing  
 - Feature scaling and preparation for PCA  
@@ -37,7 +37,7 @@ This capstone task focused on exploring relationships between different categori
 
 ---
 
-### Key Insights / Findings
+## Key Insights / Findings
 
 - PCA successfully transformed correlated crime variables into independent components.  
 - The first principal components captured the dominant variation in violent crime rates across states.  
@@ -47,7 +47,7 @@ This capstone task focused on exploring relationships between different categori
 
 ---
 
-### Endorsement
+## Endorsement
 
 Reviewer feedback highlighted the **high quality and professionalism of the submission**, with particular praise for:
 
@@ -58,9 +58,11 @@ Reviewer feedback highlighted the **high quality and professionalism of the subm
 
 Overall feedback described the work as **outstanding**, concluding: *“Well done, Sarennah! You nailed this task!”*
 
+<sub>[View full reviewer feedback](Titanic_feedback.png)</sub>
+
 ---
 
-### Skills Demonstrated
+## Skills Demonstrated
 
 **Analysis**
 - Exploratory data analysis  
@@ -83,12 +85,11 @@ Overall feedback described the work as **outstanding**, concluding: *“Well don
 
 ---
 
-### Requirements
+## Requirements
 
 Install the required Python packages with: `pip install -r requirements.txt`
 
 ---
 
-### Why this project belongs in my portfolio
+## Why this project belongs in my portfolio
 This project demonstrates my ability to apply unsupervised machine learning techniques thoughtfully and interpret results with appropriate caution. Rather than seeking a single “correct” outcome, the analysis focuses on understanding structure, variance, and similarity within complex data. 
-
