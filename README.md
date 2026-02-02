@@ -6,7 +6,7 @@ The project emphasises **careful preprocessing, interpretability, and discipline
 
 ![The left shows a black and white images of a man holding his hands together. He is wearing handcuffs and has a sorrowful posture. On the right is a map showing the American States. Some of the states are coloured red, some blue and others white.](handcuffs-and-state-clusters.png)
 
-Criminal in handcuffs image from www.rawpixel.com. Map created with www.mapchart.net. 
+<sub>Criminal in handcuffs image from www.rawpixel.com. Map created with www.mapchart.net.</sub> 
 
 ---
 
@@ -58,7 +58,7 @@ Reviewer feedback highlighted the **high quality and professionalism of the subm
 
 Overall feedback described the work as **outstanding**, concluding: *“Well done, Sarennah! You nailed this task!”*
 
-<sub>[View full reviewer feedback](Titanic_feedback.png)</sub>
+<sub>[View full reviewer feedback](capstone%20unsupervised%20machine%20learning.jpg)</sub>
 
 ---
 
