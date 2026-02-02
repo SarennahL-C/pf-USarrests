@@ -85,7 +85,7 @@ Overall feedback described the work as **outstanding**, concluding: *“Well don
 
 ### Requirements
 
-Install the required Python dependencies with `requirements.txt`
+Install the required Python packages with: `pip install -r requirements.txt`
 
 ---
 
